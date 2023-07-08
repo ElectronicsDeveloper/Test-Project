@@ -10,6 +10,9 @@
 
 ![ alt text ](https://komarev.com/ghpvc/?username=ElectronicsDeveloper&color=yellow&style=flat-square)
 
+![ alt text ](https://img.shields.io/github/languages/code-size/ElectronicsDeveloper/Test-Project?style=flat-square&label=Code%20Size&color=yellow)
+
+
 
 [![GitHub commits](https://badgen.net/github/commits/ElectronicsDeveloper/Test-Project)](https://GitHub.com/ElectronicsDeveloper/Test-Project/commit/)
 
