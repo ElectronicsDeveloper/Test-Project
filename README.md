@@ -20,5 +20,9 @@
 
 ![ alt text ](https://img.shields.io/github/contributors/ElectronicsDeveloper/Test-Project?style=flat-square&label=Contributors&color=yellow)
 
+![ alt text ](https://img.shields.io/github/languages/count/ElectronicsDeveloper/Test-Project?style=flat-square&label=Programming%20Language&color=yellow)
+
+![ alt text ](https://img.shields.io/github/languages/top/ElectronicsDeveloper/Test-Project?style=flat-square&label=C%2B%2B&color=yellow)
+
 [![GitHub commits](https://badgen.net/github/commits/ElectronicsDeveloper/Test-Project)](https://GitHub.com/ElectronicsDeveloper/Test-Project/commit/)
 
