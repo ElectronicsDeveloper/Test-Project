@@ -11,7 +11,6 @@
 [![GitHub latest commit](https://badgen.net/github/last-commit/ElectronicsDeveloper/Test-Project)](https://GitHub.com/ElectronicsDeveloper/Test-Project/commit/)
 
 
-
 ![ alt text ](https://img.shields.io/github/downloads/ElectronicsDeveloper/Test-Project/total.svg)
 
 [![Github All Releases](https://img.shields.io/github/downloads/ElectronicsDeveloper/Test-Project/total.svg)]()
