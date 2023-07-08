@@ -16,6 +16,7 @@
 
 ![ alt text ](https://img.shields.io/github/repo-size/ElectronicsDeveloper/Test-Project?style=flat-square&label=Repository%20Size&color=yellow)
 
+![ alt text ](https://img.shields.io/github/contributors/ElectronicsDeveloper/Test-Project?style=flat-square&label=Contributors&color=yellow)
 
 
 [![GitHub commits](https://badgen.net/github/commits/ElectronicsDeveloper/Test-Project)](https://GitHub.com/ElectronicsDeveloper/Test-Project/commit/)
